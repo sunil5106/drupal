@@ -14,7 +14,7 @@
 # permissions and limitations under the License.
 
 # ELB_LIST defines which Elastic Load Balancers this instance should be part of.
-ELB_LIST="sunil-devops-s-Elb-1671BR4S9W8US"
+ELB_LIST="sunil-stack3-Elb-XDOTFNNC5MQH"
 
 # Under normal circumstances, you shouldn't need to change anything below this line.
 # -----------------------------------------------------------------------------
