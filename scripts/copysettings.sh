@@ -5,7 +5,7 @@
 # name of your environment's bucket. Replace the value below with the
 # name of the bucket from your environment.
 #
-BUCKETNAME=sunil-devops-stack-bucket-120c2gumo33o
+BUCKETNAME=sunil-stack3-bucket-1f3o0qml3m1tr
 
 aws s3 cp s3://$BUCKETNAME/settings.php /var/www/html/sites/default/settings.php
 chown apache:apache /var/www/html/sites/default/settings.php
